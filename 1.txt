@@ -666,8 +666,6 @@ CCTV-17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 港台,#genre#
 TVB翡翠台,http://58.87.99.251:8090/GN/gdfc2/hls.m3u8
 TVB翡翠台,http://158.180.67.130/live/hls/J/j.m3u8
-TVB翡翠台 4K,http://158.180.67.130/live/hls/JUHD/juhd.m3u8
-TVB翡翠台 4K,http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?
 TVB翡翠台,http://58.176.4.57:8800/play/a00g
 TVB翡翠台,http://210.210.155.37/dr9445/h/h20/index.m3u8
 TVB翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
@@ -678,10 +676,12 @@ TVB翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_o
 TVB翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 TVB翡翠台,https://cdn.hkdtmb.com/hls/81/index.m3u8
 TVB翡翠台,http://cdn.hklive.tv/xxxx/81/index.m3u8
-TVB J2台,http://nz189l149.bb27109.ctm.net:8892/bysid/82
+TVB翡翠台 4K,http://158.180.67.130/live/hls/JUHD/juhd.m3u8
+TVB翡翠台 4K,http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?
+TVB J2,http://nz189l149.bb27109.ctm.net:8892/bysid/82
 TVB J2,http://58.176.4.57:8800/play/a00c
-J2,http://nz189l149.bb27109.ctm.net:8892/bysid/82
-TVB J2台,https://cdn.hkdtmb.com/hls/82/index.m3u8
+TVB J2,http://nz189l149.bb27109.ctm.net:8892/bysid/82
+TVB J2,https://cdn.hkdtmb.com/hls/82/index.m3u8
 TVB明珠台,http://58.176.4.57:8800/play/a00b
 TVB明珠台,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
 TVB明珠台 - 线路2（高清，香港线路）,https://cdn.hkdtmb.com/hls/84/index.m3u8
