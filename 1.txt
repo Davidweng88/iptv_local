@@ -674,10 +674,18 @@ TVB翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 TVB翡翠台,https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
 TVB翡翠台,https://z88.ubtvfans.com/live/rx1/30/5e6d82f65cc2bfa60d62dbbe57dedd86/index.m3u8
 TVB翡翠台,https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
+翡翠台 - 线路1（大陆线路）,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=188
+翡翠台 - 线路2（大陆线路）,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+翡翠台 - 线路3（高清，香港线路）,https://cdn.hkdtmb.com/hls/81/index.m3u8
 TVB J2台,http://nz189l149.bb27109.ctm.net:8892/bysid/82
 TVB J2,http://58.176.4.57:8800/play/a00c
 J2,http://nz189l149.bb27109.ctm.net:8892/bysid/82
+翡翠台2 - J2（高清，香港线路）,https://cdn.hkdtmb.com/hls/82/index.m3u8
 TVB明珠台,http://58.176.4.57:8800/play/a00b
+TVB明珠台,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
+TVB明珠台 - 线路2（高清，香港线路）,https://cdn.hkdtmb.com/hls/84/index.m3u8
+无线新闻台（高清，香港线路）,https://cdn.hkdtmb.com/hls/83/index.m3u8
+无线财经·资讯台（高清，香港线路）,https://cdn.hkdtmb.com/hls/85/index.m3u8
 TVB无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83
 TVB无线新闻台,http://66.165.240.154:8080/live/TVBwxxwt/hls.m3u8
 无线新闻,http://36.108.172.237:10002/stream/channelid/864637417
