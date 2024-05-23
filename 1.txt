@@ -25,6 +25,15 @@ CCTV-13,http://223.159.10.211:8099/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0
 卫视,#genre#
 凤凰卫视,http://210.210.155.37/uq2663/h/h157/index2.m3u8
 凤凰卫视,http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
+凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
+凤凰中文,http://anren.live/HK/AQtR.m3u8
+凤凰中文,http://anren.live/HK/AQtU.m3u8
+凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://anren.live/HK/AQtQ.m3u8
 
 江苏卫视,http://111.74.155.231:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=0&authid=0
 江苏卫视,http://112.101.78.50:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
