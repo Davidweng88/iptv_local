@@ -33,6 +33,7 @@ TVB翡翠,http://158.180.67.130/live/hls/JUHD/juhd.m3u8
 TVB翡翠,http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
 
 中天新闻,http://live.9528.eu.org/4gtv.php?channel=260
+中天新闻,http://live.9528.eu.org/4gtv.php?channel=30
 
 无线新闻,http://cdn8.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://888.iptv543.com/Smartv.php?id=inews_twn
