@@ -165,3 +165,10 @@ TVB星河台,http://113.64.145.195:8081/hls/135/index.m3u8
 
 港台RTHK33HD,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 港台RTHK34HD,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+
+3台,http://edge2.everyon.tv/etv2sb/pld61/HasBahCa.m3u8
+4台,http://edge2.everyon.tv/etv2sb/pld62/HasBahCa.m3u8
+8台,http://edge2.everyon.tv/etv2sb/pld499/HasBahCa.m3u8
+松视1台,http://59.124.220.46:554/live/tv184198481.stream/index.m3u8
+松视2台,http://59.124.220.46:554/live/tv284198321.stream/index.m3u8
+松视3台,http://www.sonsee.com.tw/filmfiles4/HSDN-366-2_484521.mp4
