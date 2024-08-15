@@ -177,3 +177,8 @@ TVB星河台,http://113.64.145.195:8081/hls/135/index.m3u8
 港台RTHK33HD,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 港台RTHK34HD,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 
+有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻台,p3p://108.181.32.169:16341/6533f8d200067abd2d0ae8f534c10d88
+
+寰宇新闻台,http://v.189910.xyz:8900/live.m3u8?c=1
+寰宇新闻台,p3p://108.181.32.169:16341/64295eb60008744efaf37ae07d17520b
