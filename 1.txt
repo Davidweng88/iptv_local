@@ -132,7 +132,6 @@ TVB翡翠台,http://113.64.94.191:9901/tsfile/live/1006_1.m3u8
 TVB翡翠台,http://113.83.152.56:8182/bynumber/1
 TVB翡翠台,http://113.83.152.56:8555/bysid/1
 TVB翡翠台,http://119.129.172.208:8081/hls/20/index.m3u8
-
 TVB翡翠台,http://124.244.149.194:65530/bysid/1
 TVB翡翠台,http://metatvpro.xyz:25461/W1045/4329/12205
 TVB翡翠台,https://epg.pw/stream/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.m3u8
