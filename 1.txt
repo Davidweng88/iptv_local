@@ -156,12 +156,7 @@ VIUTV,http://888.iptv543.com/Smartv.php?id=viu1_twn
 
 中天新闻,http://live.9528.eu.org/4gtv.php?channel=260
 中天新闻,http://live.9528.eu.org/4gtv.php?channel=30
-中天新闻,p3p://108.181.32.169:16341/64252571000be01dea73c63b5616781e
-中天新闻,p3p://108.181.32.169:16341/642590050003b317ec1416371a246f3d
 
-无线新闻,http://cdn8.jdshipin.com:8880/smt.php?id=inews_twn
-无线新闻,http://888.iptv543.com/Smartv.php?id=inews_twn
-无线新闻,http://137.175.30.127:9080/hls/inews.m3u8
 无线新闻,http://zsntlqj.xicp.net:8896/bysid/83
 
 HOY77,http://111.230.195.119:80/香蕉哥/hoy77/hls.m3u8
@@ -176,9 +171,3 @@ TVB星河台,http://113.64.145.195:8081/hls/135/index.m3u8
 
 港台RTHK33HD,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 港台RTHK34HD,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-
-有线新闻台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
-有线新闻台,p3p://108.181.32.169:16341/6533f8d200067abd2d0ae8f534c10d88
-
-寰宇新闻台,http://v.189910.xyz:8900/live.m3u8?c=1
-寰宇新闻台,p3p://108.181.32.169:16341/64295eb60008744efaf37ae07d17520b
