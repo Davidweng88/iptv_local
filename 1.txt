@@ -155,6 +155,8 @@ VIUTV,http://888.iptv543.com/Smartv.php?id=viu1_twn
 
 中天新闻,http://live.9528.eu.org/4gtv.php?channel=260
 中天新闻,http://live.9528.eu.org/4gtv.php?channel=30
+中天新闻,p3p://108.181.32.169:16341/64252571000be01dea73c63b5616781e
+中天新闻,p3p://108.181.32.169:16341/642590050003b317ec1416371a246f3d
 
 无线新闻,http://cdn8.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,http://888.iptv543.com/Smartv.php?id=inews_twn
