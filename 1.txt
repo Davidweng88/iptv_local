@@ -118,12 +118,6 @@ CCTV-13,http://223.159.10.211:8099/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0
 湖南卫视,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
 
 港澳台,#genre#
-TVB翡翠台,http://111.230.195.119:80/香蕉哥/tvb/hls.m3u8
-TVB翡翠台,http://158.180.67.130/live/hls/J/j.m3u8
-TVB翡翠台,http://158.180.67.130/live/hls/JUHD/juhd.m3u8
-TVB翡翠台,http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
-TVB翡翠台,http://r.jdshipin.com/qClQf
-TVB翡翠台,http://r.jdshipin.com/n90gt
 TVB翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
