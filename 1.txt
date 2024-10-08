@@ -146,7 +146,8 @@ CCTV-13,http://223.159.10.211:8099/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0
 明珠台,http://107.167.12.58:27347/livehttpplay?channel_id=30026
 明珠台,http://119.129.172.208:8081/hls/21/index.m3u8
 
-无线娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+无线娱乐新闻台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571188&extension=ts&play_token=p582OSpABb
+无线娱乐新闻台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153398&extension=ts&play_token=TPIp3m3TjC
 
 TVB Plus,http://zsntlqj.xicp.net:8896/bysid/82
 
