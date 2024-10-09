@@ -134,6 +134,7 @@ TVB Plus,http://zsntlqj.xicp.net:8896/bysid/82
 无线新闻,http://zsntlqj.xicp.net:8896/bysid/83
 
 ViuTV,http://grandprix2023.asuscomm.com:8889/bysid/99.m3u8
+ViuTV,http://zsntlqj.xicp.net:8895/bysid/99.m3u8
 
 ViuTVsix,http://zsntlqj.xicp.net:8895/bysid/96.m3u8
 
