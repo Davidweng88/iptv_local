@@ -130,6 +130,8 @@ TVB娱乐新闻台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&st
 
 TVB Plus,http://zsntlqj.xicp.net:8896/bysid/82
 
+无线新闻,http://zsntlqj.xicp.net:8896/bysid/83
+
 VIUTV,http://cdn8.jdshipin.com:8880/smt.php?id=viu1_twn
 VIUTV,http://888.iptv543.com/Smartv.php?id=viu1_twn
 
@@ -140,8 +142,6 @@ VIUTV,http://888.iptv543.com/Smartv.php?id=viu1_twn
 中天新闻台,p3p://108.181.32.169:11231/64252571000be01dea73c63b5616781e
 中天新闻台,http://cdn.iptv8k.top/dl/jspd.php?id=1
 中天新闻台,http://8.137.59.151:3009/TV2/gat.php?id=40
-
-无线新闻,http://zsntlqj.xicp.net:8896/bysid/83
 
 NOW TV,http://bozztv.com/gin-trn09/gin-turkfoxtv/tracks-v1a1/mono.m3u8
 
