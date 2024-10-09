@@ -130,13 +130,16 @@ TVB娱乐新闻台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&st
 TVB娱乐新闻台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571188&extension=ts&play_token=HnxccIWiNo
 
 TVB Plus,http://zsntlqj.xicp.net:8896/bysid/82
+TVB Plus,http://grandprix2023.asuscomm.com:8892/bysid/82.m3u8
 
 无线新闻,http://zsntlqj.xicp.net:8896/bysid/83
+无线新闻,http://grandprix2023.asuscomm.com:8892/bysid/83.m3u8
 
 ViuTV,http://grandprix2023.asuscomm.com:8889/bysid/99.m3u8
 ViuTV,http://zsntlqj.xicp.net:8895/bysid/99.m3u8
 
 ViuTVsix,http://zsntlqj.xicp.net:8895/bysid/96.m3u8
+ViuTVsix,http://grandprix2023.asuscomm.com:8889/bysid/96.m3u8
 
 中天新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv009
 中天新闻台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv009
