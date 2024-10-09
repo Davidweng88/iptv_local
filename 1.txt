@@ -104,6 +104,7 @@ CCTV-13,http://223.159.10.211:8099/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0
 湖南卫视,https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
 
 港澳台,#genre#
+翡翠台,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
@@ -132,7 +133,9 @@ TVB Plus,http://zsntlqj.xicp.net:8896/bysid/82
 
 无线新闻,http://zsntlqj.xicp.net:8896/bysid/83
 
-VIUTV,http://grandprix2023.asuscomm.com:8889/bysid/99.m3u8
+ViuTV,http://grandprix2023.asuscomm.com:8889/bysid/99.m3u8
+
+ViuTVsix,http://zsntlqj.xicp.net:8895/bysid/96.m3u8
 
 中天新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv009
 中天新闻台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv009
