@@ -157,8 +157,6 @@ TVB星河台,http://113.64.145.195:8081/hls/135/index.m3u8
 港台RTHK34HD,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 
 电影,#genre#
-周星驰,http://maomao.kandiantv.cn/douyu1.php?id=122402
-周星驰,http://hlsa-akm.douyucdn.cn/85894rmovieChow_4000p.m3u8
 周星驰,http://cfss.cc/cdn/hy/11336587.flv
 周星驰,http://cfss.cc/cdn/hy/11342412.flv
 
