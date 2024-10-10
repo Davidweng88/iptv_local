@@ -153,10 +153,6 @@ ViuTVsix,http://nz171l122.bb60246.ctm.net:8889/bysid/96.m3u8
 
 NOW TV,http://bozztv.com/gin-trn09/gin-turkfoxtv/tracks-v1a1/mono.m3u8
 
-HOY77,http://111.230.195.119:80/香蕉哥/hoy77/hls.m3u8
-HOY78,http://111.230.195.119:80/香蕉哥/hoy78/hls.m3u8
-HOY 國際財經台,http://123.202.245.120:8009/bysid/76
-HOY TV,http://123.202.245.120:8009/bysid/77
 HOY 資訊台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv
 
 TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
