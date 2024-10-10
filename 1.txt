@@ -141,6 +141,7 @@ ViuTVsix,http://nz171l122.bb60246.ctm.net:8889/bysid/96.m3u8
 有线新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpeyjhxchjsjjhjejjjyxxw.flv
 有线新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdyjjdjdjhdnowspjjlfjhjtycxjfjjojtspjjmehoytv.flv
 
+中天新闻台,http://ali.hlspull.yximgs.com/live/tboxpropqqtvvqqqyquuqqfvbscvqdqtwqfsqqsqqqcvuyqemqeqtxw.flv
 中天新闻台,https://litv.zapi.us.kg/?id=4gtv-4gtv009
 中天新闻台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv009
 中天新闻台,p3p://108.181.32.169:11231/642590050003b317ec1416371a246f3d
