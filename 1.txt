@@ -134,7 +134,7 @@ CCTV-17,
 翡翠台,https://cdn.qd.je/163189.php?id=fct
 翡翠台,http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
-翡翠台,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
+翡翠台,http://iptv.4666888.xyz/iptv2A.php?id=34
 翡翠台,http://120.198.95.220:9901/tsfile/live/1004_1.m3u8?key=txiptv
 翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
 翡翠台,http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv
@@ -220,7 +220,7 @@ HOY77,https://cdn.qd.je/163189.php?id=hoy
 HOY77,https://cdn.123.rr.kg/163189/hoy
 
 HOY78,https://fast.hidns.vip/163189/hoy78
-HOY78,https://cdn11.163189.xyz/163189/2c86601a7180416e
+HOY78,http://iptv.4666888.xyz/iptv2A.php?id=31
 HOY78,https://cdn.123.rr.kg/163189/hoy78
 HOY78,https://cdn.qd.je/163189.php?id=hoy78
 HOY78,https://mytv1.kzzc.eu.cc/?url=https://fast.hidns.vip/163189/hoy78
@@ -566,7 +566,7 @@ Now剧集台,http://rihou.cc:555/tv/hktv%2F19nowjj
 
 Now华剧台,http://rihou.cc:555/tv/hktv%2F19nowhj
 
-美亚电影,http://rihou.cc:555/tv/[PL]美亚电影
+美亚电影,http://iptv.4666888.xyz/iptv2A.php?id=30
 美亚电影,https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 美亚电影,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 美亚电影,http://74.91.26.218:82/live/mydy.m3u8
