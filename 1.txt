@@ -163,9 +163,9 @@ TVB Plus,http://o11.163189.xyz/stream/tvb/tvbp/
 無線新聞台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 無線新聞台,http://74.91.26.218:82/live/inews.m3u8
 無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-無線新聞台,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
-無線新聞台,https://live.catvod.com/iptv.php?id=tvbxw01
-無線新聞台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
+無線新聞台,
+無線新聞台,
+無線新聞台,
 
 明珠台,https://mytv1.kzzc.eu.cc/?url=https://10.fast.hidns.vip/163189/mzt/
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
