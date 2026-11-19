@@ -140,6 +140,7 @@ CCTV-17,
 翡翠台,http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv
 翡翠台,http://183.62.8.58:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 翡翠台,http://183.234.143.5:85/tsfile/live/0001_1.m3u8?key=txiptv
+翡翠台,http://120.238.84.45:9901/tsfile/live/1103_1.m3u8?key=txiptv
 
 翡翠台4K,https://cdn3.indevs.in/stream/tvb/fct4k/
 翡翠台4K,
@@ -163,9 +164,10 @@ TVB Plus,http://o11.163189.xyz/stream/tvb/tvbp/
 無線新聞台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
 無線新聞台,http://74.91.26.218:82/live/inews.m3u8
 無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-無線新聞台,
-無線新聞台,
-無線新聞台,
+無線新聞台,http://mtayeh.ottb.xyz/live/774710333494/659822672281/58592.m3u8
+無線新聞台,http://mtayeh.ottb.xyz/live/774710333494/659822672281/58596.m3u8
+無線新聞台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
+無線新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 
 明珠台,https://mytv1.kzzc.eu.cc/?url=https://10.fast.hidns.vip/163189/mzt/
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt
